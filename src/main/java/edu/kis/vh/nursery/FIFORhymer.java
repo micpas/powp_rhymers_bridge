@@ -17,3 +17,6 @@ public class FIFORhymer extends defaultCountingOutRhymer {
 		return ret;
 	}
 }
+
+//alt + strzałka lewo/prawo:
+//przełączanie między ostatnio edytowanymi plikami
